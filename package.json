@@ -1,0 +1,33 @@
+{
+  "name": "piggy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonnyAD/piggy.git"
+  },
+  "keywords": [
+    "projects",
+    "management"
+  ],
+  "author": "SonnyAD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonnyAD/piggy/issues"
+  },
+  "homepage": "https://github.com/SonnyAD/piggy#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0"
+  }
+}
